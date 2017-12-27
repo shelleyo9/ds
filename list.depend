@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1514366329 source:d:\coding\project\list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"stack.h"
+
+1514361725 d:\coding\project\list\list.h
+
+1514281532 source:d:\coding\project\list\list.c
+	<stdio.h>
+	"list.h"
+
+1514273238 source:d:\coding\project\list\poly.c
+	<stdio.h>
+	"list.h"
+
+1514285898 source:d:\coding\project\list\radix_sort.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"list.h"
+
+1514366499 source:d:\coding\project\list\exce.c
+	<stdio.h>
+	"list.h"
+	"stack.h"
+
+1514268779 d:\coding\project\list\list.c
+	<stdio.h>
+
+1514370293 d:\coding\project\list\stack.h
+
+1514365473 source:d:\coding\project\list\stack.c
+	"stack.h"
+	<stdio.h>
+
